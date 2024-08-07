@@ -13,14 +13,6 @@ For any questions or feedback, feel free to reach out to me at [info@salihuysal.
     git clone https://github.com/saliholoji/x-o-x-game.git
     ```
 2. Open the solution file (`.sln`) in Visual Studio.
-3. Restore the NuGet packages:
-    ```sh
-    nuget restore
-    ```
-4. Build the solution:
-    ```sh
-    msbuild
-    ```
 
 ## 🚀 Usage
 
