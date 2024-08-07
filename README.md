@@ -23,7 +23,6 @@ For any questions or feedback, feel free to reach out to me at [info@salihuysal.
 ## 🧩 Features
 
 - **User-Friendly Interface**: Simple and intuitive UI for an enjoyable gaming experience.
-- **Single Player Mode**: Play against a basic AI.
 - **Multiplayer Mode**: Play against another player on the same device.
 - **Score Tracking**: Keeps track of wins, losses, and draws.
 
